@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 2: Data model'
-    module: 'Create tables in Dataverse'
+    module: 'Module 1: Create tables in Dataverse'
 ---
 
 # Practice Lab 2 - Data model
