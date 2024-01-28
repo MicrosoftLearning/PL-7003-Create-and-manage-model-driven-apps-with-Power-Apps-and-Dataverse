@@ -257,6 +257,17 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Select **Save**.
 
+
+1. Select **+ New column**.
+
+1. Enter `Shown by` for **Display name**.
+
+1. Select **Lookup** in the **Data type** drop-down and select **Lookup** again.
+
+1. In the **Related table** drop-down, select **User**.
+
+1. Select **Save**.
+
 ## Exercise 3 - Create relationships
 
 In this exercise, you will create relationships between the tables to the solution.
@@ -271,7 +282,7 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. Open the **Property listings** solution.
 
-1. select the **Real Estate Property** table
+1. Select the **Real Estate Property** table
 
 1. Under **Schema**, select **Relationships**.
 
@@ -285,6 +296,29 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. Select **Done**.
 
+### Task 3.2 – Real Estate Property to Showing relationship
 
+1. Select **+ New relationship** and then select **One-to-many**.
 
-### Task 3.2 – Showing relationships
+1. In the **Related (Many) Table** drop-down select **Showing**
+
+1. In the **Lookup column requirement** drop-down, select **Business Required**.
+
+1. Select **Done**.
+
+### Task 3.3 – Showing to Contact relationship
+
+1. In the **Objects** pane, select **All**.
+
+1. Select the **Showing** table
+
+1. Under **Schema**, select **Relationships**.
+
+1. Select **+ New relationship** and then select **Many-to-one**.
+
+1. In the **Related (One) Table** drop-down select **Contact**
+
+1. Enter `Shown to` for **Lookup column display name**.
+
+1. Select **Done**.
+
