@@ -1,6 +1,6 @@
 ---
 lab:
-    title: 'Lab 2: Publisher and solution'
+    title: 'Lab 1: Publisher and solution'
     module: 'Module 1: Create tables in Dataverse'
 ---
 
@@ -12,7 +12,7 @@ In this lab, you will create a publisher and a solution.
 
 ## What you will learn
 
-- How to a solution in Microsoft Dataverse
+- How to create a solution in Microsoft Dataverse
 - How to add existing components to a solution
 
 ## High-level lab steps
