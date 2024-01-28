@@ -12,7 +12,7 @@ In this lab, you will create a publisher and a solution.
 
 ## What you will learn
 
-- How to a solution  in Microsoft Dataverse
+- How to a solution in Microsoft Dataverse
 - How to add existing components to a solution
 
 ## High-level lab steps
