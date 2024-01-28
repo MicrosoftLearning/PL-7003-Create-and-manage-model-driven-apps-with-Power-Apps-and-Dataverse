@@ -26,7 +26,7 @@ In this lab, you will export the solution
 
 ## Detailed steps
 
-## Exercise 1 - Create publisher and solution
+## Exercise 1 - Export solution
 
 In this exercise, you will export the solution from the Development environment.
 
