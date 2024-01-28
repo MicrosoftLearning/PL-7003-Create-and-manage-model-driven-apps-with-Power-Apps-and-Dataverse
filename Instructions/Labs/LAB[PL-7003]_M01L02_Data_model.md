@@ -99,7 +99,23 @@ In this exercise, you will create and add tables to the solution.
 
 1. Select **Save**.
 
-### Task 1.3 – Add contact table
+### Task 1.3 – Create Open House table
+
+1. In the **Objects** pane, select **All**.
+
+1. Select **+ New** and then select **Table** and select **Table** again.
+
+1. Enter `Open House` for **Display Name**. The plural name will be automatically populated.
+
+1. Expand **Advanced options**.
+
+1. Select **Organization** for **Record ownership**.
+
+1. Select **Save**.
+
+### Task 1.4 – Add contact table
+
+1. In the **Objects** pane, select **All**.
 
 1. Select **Add existing** and choose **Table**.
 
@@ -235,11 +251,7 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Select **Choice** in the **Data type** drop-down and select **Choice** again.
 
-1. Select **Yes** for **Sync with global choice**.
-
-1. Select **+ New choice**.
-
-1. Enter `Interest Level` for **Display name**.
+1. Select **No** for **Sync with global choice**.
 
 1. Enter `Very High` for **Label**.
 
@@ -249,14 +261,9 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Select **+ New choice** and Enter `Low` for **Label**.
 
-1. Select **+ New choice** and Enter `None` for **Label**.
+1. Select **+ New choice** and Enter `No interest` for **Label**.
 
 1. Select **Save**.
-
-1. In **Sync this choice with** select **Interest Level**.
-
-1. Select **Save**.
-
 
 1. Select **+ New column**.
 
@@ -267,6 +274,26 @@ In this exercise, you will create columns to the tables to the solution.
 1. In the **Related table** drop-down, select **User**.
 
 1. Select **Save**.
+
+### Task 2.3 – Create Open House columns
+
+1. In the **Objects** pane, select **All**.
+
+1. Select the **Open House** table
+
+1. Under **Schema**, select **Columns**.
+
+1. Select **+ New column**.
+
+1. Enter `Open House Date` for **Display name**.
+
+1. Select **Date and time** in the **Data type** drop-down.
+
+1. Select **Date only** in the **Format** drop-down.
+
+1. In the **Required** drop-down, select **Business required**.
+
+1. Select **Save**
 
 ## Exercise 3 - Create relationships
 
@@ -306,7 +333,21 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. Select **Done**.
 
-### Task 3.3 – Showing to Contact relationship
+### Task 3.3 – Real Estate Property to Open House relationship
+
+1. Select **+ New relationship** and then select **One-to-many**.
+
+1. In the **Related (Many) Table** drop-down select **Open House**.
+
+1. In the **Lookup column requirement** drop-down, select **Business Required**.
+
+1. Expand **General**.
+
+1. Enter `realestateproperty_openhouse` for **Relationship Name**.
+
+1. Select **Done**.
+
+### Task 3.4 – Showing to Contact relationship
 
 1. In the **Objects** pane, select **All**.
 
@@ -321,4 +362,3 @@ In this exercise, you will create relationships between the tables to the soluti
 1. Enter `Shown to` for **Lookup column display name**.
 
 1. Select **Done**.
-
