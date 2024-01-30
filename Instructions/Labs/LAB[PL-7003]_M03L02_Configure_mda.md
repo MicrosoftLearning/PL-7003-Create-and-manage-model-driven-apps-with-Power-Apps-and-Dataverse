@@ -1,10 +1,10 @@
 ---
 lab:
-    title: 'Lab 5: Configure model-driven app'
+    title: 'Lab 5: Configure a model-driven app'
     module: 'Module 3: Configure forms, charts, and dashboards in model-driven apps'
 ---
 
-# Practice Lab 5 - Configure model-driven app
+# Practice Lab 5 - Configure a model-driven app
 
 ## Scenario
 
