@@ -139,7 +139,7 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Open the **Property listings** solution.
 
-1. Select the **Real Estate Property** table
+1. Select the **Real Estate Property** table.
 
 1. Under **Schema**, select **Columns**.
 
@@ -223,7 +223,7 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. In the **Objects** pane, select **All**.
 
-1. Select the **Showing** table
+1. Select the **Showing** table.
 
 1. Under **Schema**, select **Columns**.
 
@@ -279,7 +279,7 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. In the **Objects** pane, select **All**.
 
-1. Select the **Open House** table
+1. Select the **Open House** table.
 
 1. Under **Schema**, select **Columns**.
 
@@ -309,7 +309,7 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. Open the **Property listings** solution.
 
-1. Select the **Real Estate Property** table
+1. Select the **Real Estate Property** table.
 
 1. Under **Schema**, select **Relationships**.
 
@@ -351,7 +351,7 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. In the **Objects** pane, select **All**.
 
-1. Select the **Showing** table
+1. Select the **Showing** table.
 
 1. Under **Schema**, select **Relationships**.
 
