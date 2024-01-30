@@ -39,7 +39,7 @@ In this exercise, you will create and add tables to the solution.
 
 ### Task 1.1 – Create Real Estate Property table
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -85,6 +85,7 @@ In this exercise, you will create and add tables to the solution.
 
 1. If *Enable attachments* is not checked for the Real Estate Property table, then check **Enable attachments** again and select **Save**.
 
+
 ### Task 1.2 – Create Showing table
 
 1. In the **Objects** pane, select **All**.
@@ -98,6 +99,7 @@ In this exercise, you will create and add tables to the solution.
 1. Check **Appear in search results**.
 
 1. Select **Save**.
+
 
 ### Task 1.3 – Create Open House table
 
@@ -113,6 +115,7 @@ In this exercise, you will create and add tables to the solution.
 
 1. Select **Save**.
 
+
 ### Task 1.4 – Add contact table
 
 1. In the **Objects** pane, select **All**.
@@ -124,6 +127,7 @@ In this exercise, you will create and add tables to the solution.
 1. Select **Next**.
 
 1. Select **Add**.
+
 
 ## Exercise 2 - Create columns
 
@@ -219,6 +223,7 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Select **Save**.
 
+
 ### Task 2.2 – Create Showing columns
 
 1. In the **Objects** pane, select **All**.
@@ -275,6 +280,7 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Select **Save**.
 
+
 ### Task 2.3 – Create Open House columns
 
 1. In the **Objects** pane, select **All**.
@@ -293,7 +299,8 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. In the **Required** drop-down, select **Business required**.
 
-1. Select **Save**
+1. Select **Save**.
+
 
 ## Exercise 3 - Create relationships
 
@@ -315,7 +322,7 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. Select **+ New relationship** and then select **Many-to-one**.
 
-1. In the **Related (One) Table** drop-down select **Contact**
+1. In the **Related (One) Table** drop-down select **Contact**.
 
 1. Enter `Client` for **Lookup column display name**.
 
@@ -323,15 +330,17 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. Select **Done**.
 
+
 ### Task 3.2 – Real Estate Property to Showing relationship
 
 1. Select **+ New relationship** and then select **One-to-many**.
 
-1. In the **Related (Many) Table** drop-down select **Showing**
+1. In the **Related (Many) Table** drop-down select **Showing**.
 
 1. In the **Lookup column requirement** drop-down, select **Business Required**.
 
 1. Select **Done**.
+
 
 ### Task 3.3 – Real Estate Property to Open House relationship
 
@@ -347,6 +356,7 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. Select **Done**.
 
+
 ### Task 3.4 – Showing to Contact relationship
 
 1. In the **Objects** pane, select **All**.
@@ -357,7 +367,8 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. Select **+ New relationship** and then select **Many-to-one**.
 
-1. In the **Related (One) Table** drop-down select **Contact**
+1. In the **Related (One) Table** drop-down select **Contact**.
+
 
 1. Enter `Shown to` for **Lookup column display name**.
 
