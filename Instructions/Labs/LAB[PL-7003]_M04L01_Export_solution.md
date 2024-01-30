@@ -1,7 +1,7 @@
 ---
 lab:
     title: 'Lab 6: Export solution'
-    module: 'Module 4: Create tables in Dataverse'
+    module: 'Module 4: Manage solutions in Power Apps and Power Automate'
 ---
 
 # Practice Lab 6 - Export solution
