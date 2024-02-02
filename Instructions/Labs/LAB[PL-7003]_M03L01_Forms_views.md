@@ -44,7 +44,7 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 ### Task 1.1 – Main form layout and columns
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -106,6 +106,7 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
     ![Screenshot of main form with table columns.](../media/main-form-first-tab.png)
 
+
 ### Task 1.2 – Add Timeline control
 
 1. Select **Tree view** on the left-hand side of the form designer.
@@ -134,6 +135,7 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. Drag the **Status Reason** column into the **Header** area.
 
+
 ### Task 1.3 – Add Quick View control
 
 1. Select **Tree view** on the left-hand side of the form designer.
@@ -147,6 +149,7 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 1. Select the **Quick View** control to add it to the **Related** section.
 
 1. Select **Client** for **Lookup** and **account contact card** for **Contact** and select **Done**.
+
 
 ### Task 1.4 – Add Tab
 
@@ -177,6 +180,7 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 1. Select **Save and publish**.
 
 1. **Close** the form designer.
+
 
 ## Exercise 2 - Showing main form
 
@@ -220,13 +224,14 @@ In this exercise, you will modify the main form for the Showing table.
 
 1. **Close** the form designer.
 
+
 ## Exercise 3 - Multiple forms
 
 In this exercise, you will create a new form and restrict access with a security role.
 
 ### Task 3.1 – Security role
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -247,6 +252,7 @@ In this exercise, you will create a new form and restrict access with a security
 1. Select **Showing** table 4 times to change the access level on all privileges to **Organization**.
 
 1. Select **Save and Close**.
+
 
 ### Task 3.2 – Copy form
 
@@ -275,6 +281,7 @@ In this exercise, you will create a new form and restrict access with a security
 1. Select **Save and publish**.
 
 1. **Close** the form designer.
+
 
 ## Exercise 4 - Real Estate Property views
 
@@ -318,6 +325,7 @@ In this exercise, you will modify the views for the Real Estate Property table.
 
 1. **Close** the view designer.
 
+
 ### Task 4.2 – Real Estate Property Quick Find view
 
 1. Select the **Quick Find Real Estate Properties** view, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
@@ -336,13 +344,14 @@ In this exercise, you will modify the views for the Real Estate Property table.
 
 1. **Close** the view designer.
 
+
 ## Exercise 5 - Showing views
 
 In this exercise, you will modify the views for the Showing table.
 
 ### Task 5.1 – Showing Public view
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -378,6 +387,7 @@ In this exercise, you will modify the views for the Showing table.
 
 1. On the **Save and publish** drop-down menu, select **Save only**.
 
+
 ### Task 5.2 – New Showing view
 
 1. Select **Save As**.
@@ -395,3 +405,4 @@ In this exercise, you will modify the views for the Showing table.
 1. Select **Save and publish**.
 
 1. **Close** the view designer.
+

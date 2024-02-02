@@ -29,6 +29,7 @@ Contoso Real Estate wants to track two key elements:
 
 - Must have completed **Lab 2: Data model**
 
+
 ## Detailed steps
 
 ## Exercise 1 - Build model-driven app
@@ -37,7 +38,7 @@ In this exercise, you will create a model-driven app.
 
 ### Task 1.1 – Create Property Management app
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -54,6 +55,7 @@ In this exercise, you will create a model-driven app.
 1. Select **Create**.
 
     ![Screenshot of model-driven app designer.](../media/mda-designer.png)
+
 
 ### Task 1.2 – Add tables
 
@@ -82,6 +84,7 @@ In this exercise, you will create a model-driven app.
 1. Select **Save**.
 
 1. Select **Publish**.
+
 
 ### Task 1.3 – Test
 
@@ -116,3 +119,4 @@ In this exercise, you will create a model-driven app.
 1. Select **Save & Close**.
 
 1. Select **Save & Close**.
+
