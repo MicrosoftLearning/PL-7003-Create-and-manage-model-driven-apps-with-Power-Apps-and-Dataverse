@@ -53,12 +53,6 @@ In this exercise, you will create and add tables to the solution.
 
 1. Enter `Real Estate Property` for **Display Name**. The plural name will be automatically populated.
 
-1. Check **Enable attachments**.
-
-1. Expand **Advanced options**.
-
-    ![Screenshot of completed new table pane](../media/new-table-pane-completed.png)
-
 1. Select the **Primary column** tab.
 
 1. Enter `Property Name` for **Display Name**.
@@ -80,10 +74,6 @@ In this exercise, you will create and add tables to the solution.
 1. Select **Save**.
 
     ![Screenshot of Real Estate Property table](../media/real-estate-property-table.png)
-
-1. Select **Properties**.
-
-1. If *Enable attachments* is not checked for the Real Estate Property table, then check **Enable attachments** again and select **Save**.
 
 
 ### Task 1.2 – Create Showing table
@@ -135,7 +125,7 @@ In this exercise, you will create columns to the tables to the solution.
 
 ### Task 2.1 – Create Real Estate Property columns
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -144,6 +134,10 @@ In this exercise, you will create columns to the tables to the solution.
 1. Open the **Property listings** solution.
 
 1. Select the **Real Estate Property** table.
+
+1. Select **Properties**
+
+1. Check **Enable attachments** and select **Save**.
 
 1. Under **Schema**, select **Columns**.
 
@@ -308,7 +302,7 @@ In this exercise, you will create relationships between the tables to the soluti
 
 ### Task 3.1 – Real Estate Property to Contact relationship
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -369,7 +363,7 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. In the **Related (One) Table** drop-down select **Contact**.
 
-
 1. Enter `Shown to` for **Lookup column display name**.
 
 1. Select **Done**.
+
