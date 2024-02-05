@@ -57,7 +57,7 @@ In this exercise, you will create and add tables to the solution.
 
 1. Enter `Property Name` for **Display Name**.
 
-1. Expand **Advanced options**.
+1. Expand **Advanced options**, review the available options but don't change anything here.
 
     ![Screenshot of table primary column tab](../media/primary-column-tab.png)
 
