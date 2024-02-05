@@ -157,8 +157,6 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Enter `Street` for **Display name**.
 
-1. Select **Single line of text** in the **Data type** drop-down.
-
 1. In the **Required** drop-down, select **Business required**.
 
 1. Select **Save**.
@@ -166,8 +164,6 @@ In this exercise, you will create columns to the tables to the solution.
 1. Select **+ New column**.
 
 1. Enter `City` for **Display name**.
-
-1. Select **Single line of text** in the **Data type** drop-down.
 
 1. In the **Required** drop-down, select **Business required**.
 
@@ -242,7 +238,7 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Enter `Comments` for **Display name**.
 
-1. Select **Text** in the **Data type** drop-down and then select **Multiple lines of text**.
+1. Select **Text** in the **Data type** drop-down and then under **Multiple lines of text**, select **Plain text**.
 
 1. Select **Save**.
 
