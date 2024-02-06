@@ -342,7 +342,7 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. Expand **General**.
 
-1. Enter `realestateproperty_openhouse` for **Relationship Name**.
+1. Enter `realestateproperty_openhouse` for **Relationship name**.
 
 1. Select **Done**.
 

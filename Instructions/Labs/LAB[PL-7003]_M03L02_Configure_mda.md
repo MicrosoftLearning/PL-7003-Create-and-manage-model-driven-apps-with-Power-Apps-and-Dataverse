@@ -55,13 +55,14 @@ In this exercise, you will configure navigation and tables a model-driven app.
 
 1. In the properties pane, enter `Properties` for **Title**.
 
-1. In the **Navigation pane**, select **Showings view** , select the **Commands** menu (...) and select **Move down**.
+1. In the **Navigation pane**, select **Showings view**, select the **Commands** menu (...) and select **Move down**.
 
-1. In the **Navigation pane**, select **Real Estate Properties view** , selectthe **Commands** menu (...) and select **Move down**.
+1. In the **Navigation pane**, select **Real Estate Properties view**, select the **Commands** menu (...) and select **Move down**.
 
-1. In the **Navigation pane**, select **Open Houses view** , select the **Commands** menu (...) and select **Move down** three times
+1. In the **Navigation pane**, select **Open Houses view**, select the **Commands** menu (...) and select **Move down** three times.
 
     ![Screenshot of model-driven app designer with navigation.](../media/mda-navigation.png)
+
 
 ### Task 1.2 – Restrict views
 
@@ -77,4 +78,5 @@ In this exercise, you will configure navigation and tables a model-driven app.
 
 1. Select **Publish**.
 
-1. **Close** the app designer.
+1. **Close** the app designer and select **Done**.
+
