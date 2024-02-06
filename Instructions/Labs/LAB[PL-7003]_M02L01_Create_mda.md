@@ -88,7 +88,7 @@ In this exercise, you will create a model-driven app.
 
 ### Task 1.3 – Test
 
-1. With the **Property Management** app designer open, select the Play button.
+1. With the **Property Management** app designer open, select the **Play** button.
 
 1. Navigate to **Contacts**.
 
