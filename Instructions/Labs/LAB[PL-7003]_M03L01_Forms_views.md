@@ -68,19 +68,19 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
     ![Screenshot of main form with 3 column tab.](../media/main-form-general-tab.png)
 
-1. Select the first section and enter `generalSection` for **Name**.
+1. In the **Tree view**, expand the **General** tab. Select the first section and enter `generalSection` for **Name**.
 
-1. Select the section section and enter `Timeline` for **Name** and `timelineSection` for **Label**.
+1. Select the second section and enter `Timeline` for **Label** and `timelineSection` for **Name**.
 
-1. Select the third section and enter `Related` for **Name** and `relatedSection` for **Label**.
+1. Select the third section and enter `Related` for **Label** and `relatedSection` for **Name**.
 
-1. Drag the **Owner** column into the **Header** area.
+1. Drag the **Owner** field into the **Header** area.
 
     ![Screenshot of main form with tree view and names.](../media/main-form-tab-layout.png)
 
 1. Select the first section.
 
-1. Select **Table columns** on the left-hand side of the form designer.
+1. Select **Table columns** from the left navigation in the form designer.
 
 1. Drag the **Client** column below the **Property Name** field.
 
@@ -88,13 +88,13 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. Select the **City** column to add to the form below **Street**.
 
-1. Select **Tree view** on the left-hand side of the form designer.
+1. Select **Components** from the left navigation in the form designer.
 
 1. Select the **1-column section** control to add it to the form.
 
-1. Enter `Details` for **Name** and `detailsSection` for **Label**.
+1. Enter `Details` for **Label** and `detailsSection` for **Name**.
 
-1. Select **Table columns** on the left-hand side of the form designer.
+1. Select **Table columns** from the left navigation in the form designer.
 
 1. Select the **Asking Price** column to add to the Details section.
 
@@ -109,17 +109,17 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 ### Task 1.2 – Add Timeline control
 
-1. Select **Tree view** on the left-hand side of the form designer.
+1. Select **Tree view** from the left navigation in the form designer.
 
 1. Select the **Timeline** section.
 
-1. Select **Components** on the left navigation of the form designer.
+1. Select **Components** from the left navigation in the form designer.
 
 1. Expand **Display**.
 
 1. Select the **Timeline** control to add it to the **Timeline** section.
 
-1. Select **Tree view** on the left side of the form designer, expand **General** tab, and select the **Timeline** section.
+1. Select **Tree view** from the left navigation in the form designer, expand **General** tab, and select the **Timeline** section.
 
 1. In the **Properties** pane on the right side, check the **Hide label** box.
 
@@ -129,9 +129,9 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. In the **Properties** pane on the right side, select **Social Activity**, uncheck the **Enable** box, and select **Done**.
 
-1. In the **Properties** pane on the right side, select **Date Created** in **Sort activities by** drop-down.
+1. In the **Properties** pane on the right side, select **Date Created** in the **Sort activities by** drop-down.
 
-1. Select **Table columns** on the left-hand side of the form designer.
+1. Select **Table columns** from the left navigation in the form designer.
 
 1. Drag the **Status Reason** column into the **Header** area.
 
@@ -157,11 +157,11 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. Select the **1-column tab** control to add it to the form.
 
-1. Enter `Showings` for **Name** and `showingTab` for **Label**.
+1. Enter `Showings` for **Label** and `showingTab` for **Label**.
 
 1. Select **Tree view** on the left side of the form designer, expand **Showings** tab, and select the **New Section** section.
 
-1. Enter `Showings` for **Name** and `showingSection` for **Label**.
+1. Enter `Showings` for **Label** and `showingSection` for **Name**.
 
 1. Select **Components** on the left navigation of the form designer.
 
@@ -173,7 +173,7 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. Select **Showings** for **Table** and **Active Showings** for **Default view** and select **Done**.
 
-1. Enter `Showings` for **Name** and `showingsSG` for **Label**.
+1. Enter `Showings` for **Label** and `showingsSG` for **Name**.
 
 1. Select **Hide label**.
 
@@ -188,7 +188,7 @@ In this exercise, you will modify the main form for the Showing table.
 
 ### Task 2.1 – Main form layout and columns
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -202,9 +202,9 @@ In this exercise, you will modify the main form for the Showing table.
 
 1. Select the **Information** form where the **Form type** is **Main**, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
 
-1. Drag the **Owner** column into the **Header** area.
+1. Drag the **Owner** field into the **Header** area.
 
-1. Select **Table columns** on the left-hand side of the form designer.
+1. Select **Table columns** from the left navigation in the form designer.
 
 1. Drag the **Real Estate Property** column below the **Name** field.
 
@@ -212,7 +212,7 @@ In this exercise, you will modify the main form for the Showing table.
 
 1. Select the **Shown by** column to add to the form below **Shown to**.
 
-1. Select the **Showning Date** column to add to the form below **Shown by**.
+1. Select the **Showing Date** column to add to the form below **Shown by**.
 
 1. Select the **Level of Interest** column to add to the form below **Showning Date**.
 
@@ -251,7 +251,7 @@ In this exercise, you will create a new form and restrict access with a security
 
 1. Select **Showing** table 4 times to change the access level on all privileges to **Organization**.
 
-1. Select **Save and Close**.
+1. Select **Save and Close**. Back in the Solution, select **Done** to retrieve the changes.
 
 
 ### Task 3.2 – Copy form
@@ -274,13 +274,13 @@ In this exercise, you will create a new form and restrict access with a security
 
 1. Select **Form Settings**.
 
-1. Select **Property admin** security role.
+1. Select the **Property admin** security role.
 
     ![Main form security roles.](../media/main-form-settings.png)
 
 1. Select **Save and publish**.
 
-1. **Close** the form designer.
+1. **Close** the form designer and select **Done**.
 
 
 ## Exercise 4 - Real Estate Property views
@@ -289,7 +289,7 @@ In this exercise, you will modify the views for the Real Estate Property table.
 
 ### Task 4.1 – Real Estate Property Public view
 
-1. Navigate to the Power Apps Maker portal <https://make.powerapps.com>.
+1. Navigate to the Power Apps Maker portal `https://make.powerapps.com`
 
 1. Make sure you are in the **Dev One** environment.
 
@@ -323,7 +323,7 @@ In this exercise, you will modify the views for the Real Estate Property table.
 
 1. Select **Save and publish**.
 
-1. **Close** the view designer.
+1. **Close** the view designer and select **Done**.
 
 
 ### Task 4.2 – Real Estate Property Quick Find view
@@ -342,7 +342,7 @@ In this exercise, you will modify the views for the Real Estate Property table.
 
 1. Select **Save and publish**.
 
-1. **Close** the view designer.
+1. **Close** the view designer and select **Done**.
 
 
 ## Exercise 5 - Showing views
@@ -404,5 +404,6 @@ In this exercise, you will modify the views for the Showing table.
 
 1. Select **Save and publish**.
 
-1. **Close** the view designer.
+1. **Close** the view designer and select **Done**.
+
 
