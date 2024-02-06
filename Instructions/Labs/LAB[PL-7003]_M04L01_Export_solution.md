@@ -85,11 +85,11 @@ In this exercise, you will export the solution from the Development environment.
 
 1. The version number should have been incremented to **1.0.0.2**.
 
-1. Change the version number to `1.0.0.1`.
+1. Change the version number to `1.0.0.1`
 
 1. Select **Unmanaged** for **Export as**.
 
 1. Select **Export**.
 
-1. The export will be prepared in the background, when the solution is ready select the **Download** button.
+1. The export will be prepared in the background. When the solution is ready, select the **Download** button.
 
