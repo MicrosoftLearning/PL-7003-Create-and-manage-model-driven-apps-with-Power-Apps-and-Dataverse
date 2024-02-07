@@ -73,8 +73,6 @@ In this exercise, you will create and add tables to the solution.
 
 1. Select **Save**.
 
-    ![Screenshot of Real Estate Property table](../media/real-estate-property-table.png)
-
 
 ### Task 1.2 – Create Showing table
 
@@ -135,7 +133,9 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Select the **Real Estate Property** table.
 
-1. Select **Properties**
+1. Select **Properties**.
+
+    ![Screenshot of Real Estate Property table](../media/real-estate-property-table.png)
 
 1. Check **Enable attachments** and select **Save**.
 
