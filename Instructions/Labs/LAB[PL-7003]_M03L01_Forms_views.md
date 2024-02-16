@@ -181,6 +181,8 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. **Close** the form designer.
 
+1. Select **Done**.
+
 
 ## Exercise 2 - Showing main form
 
@@ -224,6 +226,8 @@ In this exercise, you will modify the main form for the Showing table.
 
 1. **Close** the form designer.
 
+1. Select **Done**.
+
 
 ## Exercise 3 - Multiple forms
 
@@ -251,7 +255,9 @@ In this exercise, you will create a new form and restrict access with a security
 
 1. Select **Showing** table 4 times to change the access level on all privileges to **Organization**.
 
-1. Select **Save and Close**. Back in the Solution, select **Done** to retrieve the changes.
+1. Select **Save and Close**.
+
+1. Select **Done**.
 
 
 ### Task 3.2 – Copy form
@@ -280,7 +286,9 @@ In this exercise, you will create a new form and restrict access with a security
 
 1. Select **Save and publish**.
 
-1. **Close** the form designer and select **Done**.
+1. **Close** the form designer.
+
+1. Select **Done**.
 
 
 ## Exercise 4 - Real Estate Property views
@@ -323,16 +331,18 @@ In this exercise, you will modify the views for the Real Estate Property table.
 
 1. Select **Save and publish**.
 
-1. **Close** the view designer and select **Done**.
+1. **Close** the view designer.
+
+1. Select **Done**.
 
 
 ### Task 4.2 – Real Estate Property Quick Find view
 
-1. Select the **Quick Find Real Estate Properties** view, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
+1. Select the **Quick Find Active Real Estate Properties** view, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
 
 1. Select the caret next to the **Created On** column and select **Remove**.
 
-1. In the **Quick Find Active eal Estate Properties** pane on the right, select **Edit find table columns** under **Find by**.
+1. In the **Quick Find Active Real Estate Properties** pane on the right, select **Edit find table columns** under **Find by**.
 
 1. Choose the following columns and select **Apply**.
 
@@ -342,7 +352,9 @@ In this exercise, you will modify the views for the Real Estate Property table.
 
 1. Select **Save and publish**.
 
-1. **Close** the view designer and select **Done**.
+1. **Close** the view designer.
+
+1. Select **Done**.
 
 
 ## Exercise 5 - Showing views
@@ -404,6 +416,6 @@ In this exercise, you will modify the views for the Showing table.
 
 1. Select **Save and publish**.
 
-1. **Close** the view designer and select **Done**.
+1. **Close** the view designer.
 
-
+1. Select **Done**.
