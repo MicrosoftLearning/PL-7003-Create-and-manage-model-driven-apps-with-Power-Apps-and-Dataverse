@@ -66,6 +66,8 @@ In this exercise, you will export the solution from the Development environment.
 
 1. Select **Next**.
 
+1. Select **Next** again.
+
 1. The version number should have been incremented to **1.0.0.1**.
 
     ![Export solution pane.](../media/export-solution.png)
@@ -82,6 +84,8 @@ In this exercise, you will export the solution from the Development environment.
 1. Select **Export**.
 
 1. Select **Next**.
+
+1. Select **Next** again.
 
 1. The version number should have been incremented to **1.0.0.2**.
 

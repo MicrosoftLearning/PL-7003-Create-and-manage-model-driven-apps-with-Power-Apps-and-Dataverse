@@ -157,7 +157,7 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. Select the **1-column tab** control to add it to the form.
 
-1. Enter `Showings` for **Label** and `showingTab` for **Label**.
+1. Enter `Showings` for **Label** and `showingTab` for **Name**.
 
 1. Select **Tree view** on the left side of the form designer, expand **Showings** tab, and select the **New Section** section.
 
