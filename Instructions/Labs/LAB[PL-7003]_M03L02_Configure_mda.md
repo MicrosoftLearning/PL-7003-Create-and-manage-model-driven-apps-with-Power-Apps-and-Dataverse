@@ -51,7 +51,7 @@ In this exercise, you will configure navigation and tables a model-driven app.
 
 1. In the properties pane, enter `Clients` for **Title**.
 
-1. Select **Navigation**, select the **Commands** menu (...) **...** and select **New group**.
+1. Select **Navigation**, select the **Commands** menu (...) and select **New group**.
 
 1. In the properties pane, enter `Properties` for **Title**.
 

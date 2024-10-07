@@ -65,8 +65,6 @@ In this exercise, you will create a model-driven app.
 
 1. Select **Dataverse table**.
 
-1. Select **Next**.
-
 1. Enter `cre` in **Search**.
 
     ![Screenshot of add page to model-driven app dialog.](../media/mda-add-tables.png)

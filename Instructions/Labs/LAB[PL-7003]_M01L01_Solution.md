@@ -89,7 +89,7 @@ In this exercise, you will add an existing table to the solution.
 
 1. Select **Solutions**.
 
-1. Select the **Contoso Real Estate** solution, from the previous exercise.
+1. Select the **Property listings** solution, from the previous exercise.
 
     ![Property listing solution objects.](../media/solution-objects.png)
 

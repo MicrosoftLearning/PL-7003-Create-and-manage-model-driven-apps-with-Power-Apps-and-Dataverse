@@ -47,15 +47,15 @@ In this exercise, you will create and add tables to the solution.
 
 1. Open the **Property listings** solution.
 
-1. Select **+ New** and then select **Table** and select **Table** again.
+1. Select **+ New** and then select **Table** and select **Set advanced properties**.
 
     ![Screenshot of new table pane](../media/new-table-pane.png)
 
-1. Enter `Real Estate Property` for **Display Name**. The plural name will be automatically populated.
+1. Enter `Real Estate Property` for **Display name**. The plural name will be automatically populated.
 
 1. Select the **Primary column** tab.
 
-1. Enter `Property Name` for **Display Name**.
+1. Enter `Property Name` for **Display name**.
 
 1. Expand **Advanced options**, review the available options but don't change anything here.
 
@@ -78,9 +78,9 @@ In this exercise, you will create and add tables to the solution.
 
 1. In the **Objects** pane, select **All**.
 
-1. Select **+ New** and then select **Table** and select **Table** again.
+1. Select **+ New** and then select **Table** and select **Set advanced properties**.
 
-1. Enter `Showing` for **Display Name**. The plural name will be automatically populated.
+1. Enter `Showing` for **Display name**. The plural name will be automatically populated.
 
 1. Expand **Advanced options**.
 
@@ -93,9 +93,9 @@ In this exercise, you will create and add tables to the solution.
 
 1. In the **Objects** pane, select **All**.
 
-1. Select **+ New** and then select **Table** and select **Table** again.
+1. Select **+ New** and then select **Table** and select **Set advanced properties** again.
 
-1. Enter `Open House` for **Display Name**. The plural name will be automatically populated.
+1. Enter `Open House` for **Display name**. The plural name will be automatically populated.
 
 1. Expand **Advanced options**.
 
@@ -241,6 +241,8 @@ In this exercise, you will create columns to the tables to the solution.
 1. Select **Text** in the **Data type** drop-down and then under **Multiple lines of text**, select **Plain text**.
 
 1. Select **Save**.
+
+1. Select **+ New column**.
 
 1. Enter `Level of Interest` for **Display name**.
 
