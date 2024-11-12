@@ -247,13 +247,13 @@ In this exercise, you will create a new form and restrict access with a security
 
 1. Enter `Property admin` for **Role Name**.
 
-1. Select the **Custom Entities** tab.
+1. Scroll down to the **Custom Tables** section.
 
-1. Select **Real Estate Property** table 4 times to change the access level on all privileges to **Organization**.
+1. Select **Real Estate Property** table. Change the access level on all privileges to **Organization**.
 
     ![Real Estate Propery privileges in security role.](../media/security-role.png)
 
-1. Select **Showing** table 4 times to change the access level on all privileges to **Organization**.
+1. Select **Showing** table. Change the access level on all privileges to **Organization**.
 
 1. Select **Save and Close**.
 
