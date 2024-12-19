@@ -171,7 +171,7 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. Select **Show related records**.
 
-1. Select **Showings** for **Table** and **Active Showings** for **Default view** and select **Done**.
+1. Select **Showings (Real Estate Property)** for **Table** and **Active Showings** for **Default view** and select **Done**.
 
 1. Enter `Showings` for **Label** and `showingsSG` for **Name**.
 
