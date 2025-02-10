@@ -103,7 +103,7 @@ In this exercise, you will add an existing table to the solution.
 
 1. Select **Next**.
 
-1. Under the **Account** table, select the **Select objects** link.
+1. Under the **Account** table, select the **Edit objects** link.
 
 1. In the **Columns** tab, select the **Account Number** column.
 

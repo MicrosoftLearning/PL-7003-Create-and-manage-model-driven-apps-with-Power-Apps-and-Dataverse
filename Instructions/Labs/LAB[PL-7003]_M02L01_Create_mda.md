@@ -83,6 +83,7 @@ In this exercise, you will create a model-driven app.
 
 1. Select **Publish**.
 
+    ![Screenshot of publishing icon.](../media/mda-publish-btn.png)
 
 ### Task 1.3 – Test
 
