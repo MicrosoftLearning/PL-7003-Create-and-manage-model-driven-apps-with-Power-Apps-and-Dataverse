@@ -47,7 +47,7 @@ In this exercise, you will create and add tables to the solution.
 
 1. Open the **Property listings** solution.
 
-1. Select **+ New** and then select **Table** and select **Set advanced properties**.
+1. Select **+ New** and then select **Table** and select **Table(advanced properties)**.
 
     ![Screenshot of new table pane](../media/new-table-pane.png)
 
@@ -78,7 +78,7 @@ In this exercise, you will create and add tables to the solution.
 
 1. In the **Objects** pane, select **All**.
 
-1. Select **+ New** and then select **Table** and select **Set advanced properties**.
+1. Select **+ New** and then select **Table** and select **Table(advanced properties)**.
 
 1. Enter `Showing` for **Display name**. The plural name will be automatically populated.
 
@@ -93,7 +93,7 @@ In this exercise, you will create and add tables to the solution.
 
 1. In the **Objects** pane, select **All**.
 
-1. Select **+ New** and then select **Table** and select **Set advanced properties** again.
+1. Select **+ New** and then select **Table** and select **Table(advanced properties)** again.
 
 1. Enter `Open House` for **Display name**. The plural name will be automatically populated.
 
