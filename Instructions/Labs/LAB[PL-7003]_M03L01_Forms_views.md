@@ -247,6 +247,8 @@ In this exercise, you will create a new form and restrict access with a security
 
 1. Enter `Property admin` for **Role Name**.
 
+1. Select the **Business Unit** and Save.
+
 1. Scroll down to the **Custom Tables** section.
 
 1. Select **Real Estate Property** table. Change the access level on all privileges to **Organization**.
