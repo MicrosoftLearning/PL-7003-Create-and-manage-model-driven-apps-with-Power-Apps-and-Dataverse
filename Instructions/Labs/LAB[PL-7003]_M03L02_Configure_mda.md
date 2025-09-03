@@ -63,7 +63,6 @@ In this exercise, you will configure navigation and tables a model-driven app.
 
     ![Screenshot of model-driven app designer with navigation.](../media/mda-navigation.png)
 
-
 ### Task 1.2 – Restrict views
 
 1. In the **Navigation** pane, select **Showings view**.
@@ -74,9 +73,6 @@ In this exercise, you will configure navigation and tables a model-driven app.
 
     ![Screenshot of removing a view in the model-driven app designer.](../media/mda-remove-view.png)
 
-1. Select **Save**.
-
-1. Select **Publish**.
+1. Select **Save and Publish**.
 
 1. **Close** the app designer and select **Done**.
-

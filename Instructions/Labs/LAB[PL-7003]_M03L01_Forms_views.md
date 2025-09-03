@@ -78,9 +78,11 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
     ![Screenshot of main form with tree view and names.](../media/main-form-tab-layout.png)
 
-1. Select the first section.
-
 1. Select **Table columns** from the left navigation in the form designer.
+
+1. Drag the **Status Reason** column into the **Header** area.
+
+1. Select the first section.
 
 1. Drag the **Client** column below the **Property Name** field.
 
@@ -90,7 +92,7 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. Select **Components** from the left navigation in the form designer.
 
-1. Select the **1-column section** control to add it to the form.
+1. Select the **1-column section** control to add it to the form below the General section.
 
 1. Enter `Details` for **Label** and `detailsSection` for **Name**.
 
@@ -105,7 +107,6 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 1. Select the **Bathrooms** column to add to the form below **Bedrooms**.
 
     ![Screenshot of main form with table columns.](../media/main-form-first-tab.png)
-
 
 ### Task 1.2 – Add Timeline control
 
@@ -131,11 +132,6 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. In the **Properties** pane on the right side, select **Date Created** in the **Sort activities by** drop-down.
 
-1. Select **Table columns** from the left navigation in the form designer.
-
-1. Drag the **Status Reason** column into the **Header** area.
-
-
 ### Task 1.3 – Add Quick View control
 
 1. Select **Tree view** on the left-hand side of the form designer.
@@ -149,7 +145,6 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 1. Select the **Quick View** control to add it to the **Related** section.
 
 1. Select **Client** for **Lookup** and **account contact card** for **Contact** and select **Done**.
-
 
 ### Task 1.4 – Add Tab
 
@@ -183,7 +178,6 @@ In this exercise, you will modify the main form for the Real Estate Property tab
 
 1. Select **Done**.
 
-
 ## Exercise 2 - Showing main form
 
 In this exercise, you will modify the main form for the Showing table.
@@ -216,7 +210,7 @@ In this exercise, you will modify the main form for the Showing table.
 
 1. Select the **Showing Date** column to add to the form below **Shown by**.
 
-1. Select the **Level of Interest** column to add to the form below **Showning Date**.
+1. Select the **Level of Interest** column to add to the form below **Showing Date**.
 
 1. Select the **Comments** column to add to the form below **Level of Interest**.
 
@@ -227,7 +221,6 @@ In this exercise, you will modify the main form for the Showing table.
 1. **Close** the form designer.
 
 1. Select **Done**.
-
 
 ## Exercise 3 - Multiple forms
 
@@ -247,20 +240,39 @@ In this exercise, you will create a new form and restrict access with a security
 
 1. Enter `Property admin` for **Role Name**.
 
-1. Select the **Business Unit** and Save.
+1. Select the **Root Business Unit** and select **Save**.
 
-1. Scroll down to the **Custom Tables** section.
+1. Enter `cre_` in **Search by table name** in the upper-right of the page.
 
-1. Select **Real Estate Property** table. Change the access level on all privileges to **Organization**.
+1. Select **Show all tables** in the drop-down on the left-hand side of the page.
 
-    ![Real Estate Propery privileges in security role.](../media/security-role.png)
+1. Select the **Real Estate Property** table.
 
-1. Select **Showing** table. Change the access level on all privileges to **Organization**.
+1. Select the **Commands** menu (...), and select **Permission Settings**.
 
-1. Select **Save and Close**.
+1. Select **Full Access** to change the access level on all privileges to **Organization**.
 
-1. Select **Done**.
+1. Select **Save**.
 
+    ![Real Estate Property privileges in security role.](../media/security-role.png)
+
+1. Select the **Showing** table.
+
+1. Select the **Commands** menu (...), and select **Permission Settings**.
+
+1. Select **Full Access** to change the access level on all privileges to **Organization**.
+
+1. Select **Save**.
+
+1. Select the **Open House** table.
+
+1. Select the **Commands** menu (...), and select **Permission Settings**.
+
+1. Select **Full Access** to change the access level on all privileges to **Organization**.
+
+1. Select **Save**.
+
+1. Select **<- Back**.
 
 ### Task 3.2 – Copy form
 
@@ -270,9 +282,9 @@ In this exercise, you will create a new form and restrict access with a security
 
 1. Select the **Information** form where the **Form type** is **Main**, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
 
-1. Select **Level of Interest** and in the Proprties pane, select **Read-only**.
+1. Select **Level of Interest** and in the Properties pane, select **Read-only**.
 
-1. Select **Comments** and in the Proprties pane, select **Read-only**.
+1. Select **Comments** and in the Properties pane, select **Read-only**.
 
 1. Select **Save a copy**.
 
@@ -280,7 +292,7 @@ In this exercise, you will create a new form and restrict access with a security
 
     ![Copy of Showing main form.](../media/main-form-copy.png)
 
-1. Select **Form Settings**.
+1. Select **Form settings**.
 
 1. Select the **Property admin** security role.
 
@@ -291,7 +303,6 @@ In this exercise, you will create a new form and restrict access with a security
 1. **Close** the form designer.
 
 1. Select **Done**.
-
 
 ## Exercise 4 - Real Estate Property views
 
@@ -337,7 +348,6 @@ In this exercise, you will modify the views for the Real Estate Property table.
 
 1. Select **Done**.
 
-
 ### Task 4.2 – Real Estate Property Quick Find view
 
 1. Select the **Quick Find Active Real Estate Properties** view, select the **Commands** menu (...), and select **Edit** > **Edit in new tab**.
@@ -357,7 +367,6 @@ In this exercise, you will modify the views for the Real Estate Property table.
 1. **Close** the view designer.
 
 1. Select **Done**.
-
 
 ## Exercise 5 - Showing views
 
@@ -400,7 +409,6 @@ In this exercise, you will modify the views for the Showing table.
 1. In the Properties pane, select **Sort by** and select **Showing Date**.
 
 1. On the **Save and publish** drop-down menu, select **Save only**.
-
 
 ### Task 5.2 – New Showing view
 
