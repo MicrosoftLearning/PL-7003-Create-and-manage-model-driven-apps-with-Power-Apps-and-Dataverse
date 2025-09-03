@@ -29,7 +29,6 @@ Contoso Real Estate wants to track two key elements:
 
 - Must have completed **Lab 2: Data model**
 
-
 ## Detailed steps
 
 ## Exercise 1 - Build model-driven app
@@ -56,16 +55,13 @@ In this exercise, you will create a model-driven app.
 
     ![Screenshot of model-driven app designer.](../media/mda-designer.png)
 
-
 ### Task 1.2 – Add tables
 
-1. Select **+ Add page**.
+1. Select the drop-down next to **+ Add page** and select **Dataverse table**.
 
     ![Screenshot of add page to model-driven app dialog](../media/mda-new-page.png)
 
-1. Select **Dataverse table**.
-
-1. Enter `cre` in **Search**.
+1. Enter `cre_` in **Search**.
 
     ![Screenshot of add page to model-driven app dialog.](../media/mda-add-tables.png)
 
@@ -79,11 +75,9 @@ In this exercise, you will create a model-driven app.
 
     ![Screenshot of model-driven app designer with tables.](../media/mda-designer-with-tables.png)
 
-1. Select **Save**.
+1. Select **Save and Publish**.
 
-1. Select **Publish**.
-
-    ![Screenshot of publishing icon.](../media/mda-publish-btn.png)
+    ![Screenshot of save and publish icon.](../media/mda-save-publish-btn.png)
 
 ### Task 1.3 – Test
 
@@ -119,3 +113,6 @@ In this exercise, you will create a model-driven app.
 
 1. Select **Save & Close**.
 
+1. Close the app.
+
+1. Select **<- Back** in the **Property Management** app designer.

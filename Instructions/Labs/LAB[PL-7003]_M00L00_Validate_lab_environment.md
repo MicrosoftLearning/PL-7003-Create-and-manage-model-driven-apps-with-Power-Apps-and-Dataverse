@@ -38,6 +38,8 @@ In this exercise, you will verify that you can access Power Apps.
 
 1. Optionally, select **Yes** to stay signed in.
 
+1. Optionally, select **No, thanks** to sign in to Microsoft Edge.
+
 1. If prompted for contact information, leave the Country/region as the default value and enter `0123456789` for Phone number and select **Submit**.
 
 1. Refresh the page. At the top right of the screen, verify that the **Environment** is set to **Dev One**. This is where you will be working for the entirety of this lab. If it is not, select the **Dev One** environment.

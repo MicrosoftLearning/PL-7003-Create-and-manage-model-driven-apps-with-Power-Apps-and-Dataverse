@@ -43,7 +43,7 @@ In this exercise, you will access the Power Apps maker portal, the Developer env
 
     ![Select Development environment in the Power Apps maker portal.](../media/select-dev-one-environment.png)
 
-1. Select **Apps** from the left navigation pane and then select **All**. You should see several apps including, Dataverse Accelerator App, Solution Health Hub, and Power Pages Management, listed.
+1. Select **Apps** from the left navigation pane and then select **All**. You should see several apps including, Power Pages Management, Solution Health Hub, and Power Platform Environment Settings listed.
 
 1. Select **Tables** from the left navigation pane. You should see the standard tables from the *Common Data Model* including Account and Contact.
 

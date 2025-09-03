@@ -47,7 +47,7 @@ In this exercise, you will create and add tables to the solution.
 
 1. Open the **Property listings** solution.
 
-1. Select **+ New** and then select **Table** and select **Table(advanced properties)**.
+1. Select **+ New** and then select **Table** and select **Table (advanced properties)**.
 
     ![Screenshot of new table pane](../media/new-table-pane.png)
 
@@ -73,12 +73,17 @@ In this exercise, you will create and add tables to the solution.
 
 1. Select **Save**.
 
+1. Select **Properties**.
+
+    ![Screenshot of Real Estate Property table](../media/real-estate-property-table.png)
+
+1. Check **Enable attachments** and select **Save**.
 
 ### Task 1.2 – Create Showing table
 
 1. In the **Objects** pane, select **All**.
 
-1. Select **+ New** and then select **Table** and select **Table(advanced properties)**.
+1. Select **+ New** and then select **Table** and select **Table (advanced properties)**.
 
 1. Enter `Showing` for **Display name**. The plural name will be automatically populated.
 
@@ -88,12 +93,11 @@ In this exercise, you will create and add tables to the solution.
 
 1. Select **Save**.
 
-
 ### Task 1.3 – Create Open House table
 
 1. In the **Objects** pane, select **All**.
 
-1. Select **+ New** and then select **Table** and select **Table(advanced properties)** again.
+1. Select **+ New** and then select **Table** and select **Table (advanced properties)** again.
 
 1. Enter `Open House` for **Display name**. The plural name will be automatically populated.
 
@@ -102,7 +106,6 @@ In this exercise, you will create and add tables to the solution.
 1. Select **Organization** for **Record ownership**.
 
 1. Select **Save**.
-
 
 ### Task 1.4 – Add contact table
 
@@ -115,7 +118,6 @@ In this exercise, you will create and add tables to the solution.
 1. Select **Next**.
 
 1. Select **Add**.
-
 
 ## Exercise 2 - Create columns
 
@@ -132,12 +134,6 @@ In this exercise, you will create columns to the tables to the solution.
 1. Open the **Property listings** solution.
 
 1. Select the **Real Estate Property** table.
-
-1. Select **Properties**.
-
-    ![Screenshot of Real Estate Property table](../media/real-estate-property-table.png)
-
-1. Check **Enable attachments** and select **Save**.
 
 1. Under **Schema**, select **Columns**.
 
@@ -213,7 +209,6 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Select **Save**.
 
-
 ### Task 2.2 – Create Showing columns
 
 1. In the **Objects** pane, select **All**.
@@ -272,7 +267,6 @@ In this exercise, you will create columns to the tables to the solution.
 
 1. Select **Save**.
 
-
 ### Task 2.3 – Create Open House columns
 
 1. In the **Objects** pane, select **All**.
@@ -292,7 +286,6 @@ In this exercise, you will create columns to the tables to the solution.
 1. In the **Required** drop-down, select **Business required**.
 
 1. Select **Save**.
-
 
 ## Exercise 3 - Create relationships
 
@@ -322,7 +315,6 @@ In this exercise, you will create relationships between the tables to the soluti
 
 1. Select **Done**.
 
-
 ### Task 3.2 – Real Estate Property to Showing relationship
 
 1. Select **+ New relationship** and then select **One-to-many**.
@@ -332,7 +324,6 @@ In this exercise, you will create relationships between the tables to the soluti
 1. In the **Lookup column requirement** drop-down, select **Business Required**.
 
 1. Select **Done**.
-
 
 ### Task 3.3 – Real Estate Property to Open House relationship
 
@@ -347,7 +338,6 @@ In this exercise, you will create relationships between the tables to the soluti
 1. Enter `realestateproperty_openhouse` for **Relationship name**.
 
 1. Select **Done**.
-
 
 ### Task 3.4 – Showing to Contact relationship
 
@@ -364,4 +354,3 @@ In this exercise, you will create relationships between the tables to the soluti
 1. Enter `Shown to` for **Lookup column display name**.
 
 1. Select **Done**.
-

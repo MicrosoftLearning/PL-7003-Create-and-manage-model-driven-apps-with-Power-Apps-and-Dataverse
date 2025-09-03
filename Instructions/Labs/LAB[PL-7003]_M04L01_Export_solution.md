@@ -46,7 +46,6 @@ In this exercise, you will export the solution from the Development environment.
 
 1. Select **Publish all customizations**.
 
-
 ### Task 1.2 – Solution checker
 
 1. In the solution, select the **Overview** tab.
@@ -58,7 +57,6 @@ In this exercise, you will export the solution from the Development environment.
     ![Solution checker results page.](../media/solution-checker.png)
 
 1. You should see no warnings or errors.
-
 
 ### Task 1.3 – Export managed solution
 
@@ -78,7 +76,6 @@ In this exercise, you will export the solution from the Development environment.
 
 1. The export will be prepared in the background. When the solution is ready, select the **Download** button.
 
-
 ### Task 1.4 – Export unmanaged solution
 
 1. Select **Export**.
@@ -96,4 +93,3 @@ In this exercise, you will export the solution from the Development environment.
 1. Select **Export**.
 
 1. The export will be prepared in the background. When the solution is ready, select the **Download** button.
-
