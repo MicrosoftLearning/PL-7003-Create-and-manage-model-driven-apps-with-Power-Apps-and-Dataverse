@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 4: Configure forms and views'
-    module: 'Module 3: Configure forms, charts, and dashboards in model-driven apps'
+  title: 'Lab 4: Configure forms and views'
+  module: 'Module 3: Configure forms, charts, and dashboards in model-driven apps'
+  description: In this lab, you will configure forms and views for a model-driven app.
+  duration: 172 minutes
+  level: 200
+  islab: true
 ---
 
 # Practice Lab 4 - Configure forms and views
