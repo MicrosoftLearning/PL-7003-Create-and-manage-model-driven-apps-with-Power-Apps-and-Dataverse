@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 1: Publisher and solution'
-    module: 'Module 1: Create tables in Dataverse'
+  title: 'Lab 1: Publisher and solution'
+  module: 'Module 1: Create tables in Dataverse'
+  description: In this lab, you will create a publisher and a solution.
+  duration: 94 minutes
+  level: 100
+  islab: true
 ---
 
 # Practice Lab 1 - Publisher and solution
