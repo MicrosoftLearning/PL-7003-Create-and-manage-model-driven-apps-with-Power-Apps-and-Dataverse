@@ -3,7 +3,7 @@ lab:
   title: 'Lab 6: Export solution'
   module: 'Module 4: Manage solutions in Power Apps and Power Automate'
   description: In this lab, you will export the solution
-  duration: 80 minutes
+  duration: 10 minutes
   level: 100
   islab: true
 ---
