@@ -3,7 +3,7 @@ lab:
   title: 'Lab 5: Configure a model-driven app'
   module: 'Module 3: Configure forms, charts, and dashboards in model-driven apps'
   description: In this lab, you will configure a model-driven app.
-  duration: 62 minutes
+  duration: 30 minutes
   level: 100
   islab: true
 ---
