@@ -3,7 +3,7 @@ lab:
   title: 'Lab 3: Create a model-driven app'
   module: 'Module 2: Get started with model-driven apps in Power Apps'
   description: In this exercise, you will create a model-driven app.
-  duration: 90 minutes
+  duration: 25 minutes
   level: 100
   islab: true
 ---
