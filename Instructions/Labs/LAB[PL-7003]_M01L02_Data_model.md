@@ -1,7 +1,11 @@
 ---
 lab:
-    title: 'Lab 2: Data model'
-    module: 'Module 1: Create tables in Dataverse'
+  title: 'Lab 2: Data model'
+  module: 'Module 1: Create tables in Dataverse'
+  description: In this lab, you will create Dataverse tables, columns, and relationships.
+  duration: 25 minutes
+  level: 100
+  islab: true
 ---
 
 # Practice Lab 2 - Data model
