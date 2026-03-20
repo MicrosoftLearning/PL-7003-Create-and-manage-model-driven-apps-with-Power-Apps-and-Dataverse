@@ -61,7 +61,7 @@ In this exercise, you will create a model-driven app.
 
 ### Task 1.2 – Add tables
 
-1. Select the drop-down next to **+ Add page** and select **Dataverse table**.
+1. Select **+ Add page** and then select **Dataverse table**.
 
     ![Screenshot of add page to model-driven app dialog](../media/mda-new-page.png)
 
