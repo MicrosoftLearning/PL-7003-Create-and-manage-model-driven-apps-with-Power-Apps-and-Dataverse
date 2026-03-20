@@ -101,7 +101,7 @@ In this exercise, you will create and add tables to the solution.
 
 1. In the **Objects** pane, select **All**.
 
-1. Select **+ New** and then select **Table** and select **Table (advanced properties)** again.
+1. Select **+ New** > **Table** > **Table (advanced properties)**.
 
 1. Enter `Open House` for **Display name**. The plural name will be automatically populated.
 
