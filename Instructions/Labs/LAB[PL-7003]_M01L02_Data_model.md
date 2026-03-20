@@ -51,7 +51,7 @@ In this exercise, you will create and add tables to the solution.
 
 1. Open the **Property listings** solution.
 
-1. Select **+ New** and then select **Table** and select **Table (advanced properties)**.
+1. Select **+ New** > **Table** > **Table (advanced properties)**.
 
     ![Screenshot of new table pane](../media/new-table-pane.png)
 
