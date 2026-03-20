@@ -49,7 +49,7 @@ In this exercise, you will create a model-driven app.
 
 1. Open the **Property listings** solution.
 
-1. Select **+ New** and then select **App** and select **Model-driven app**.
+1. Select **+ New** > **App** > **Model-driven app**.
 
     ![Screenshot of new model-driven app dialog.](../media/new-mda.png)
 
